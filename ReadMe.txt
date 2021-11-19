@@ -1,0 +1,3 @@
+ Ce programme consiste à représenter des véhicules. En partant du principe que tout ce qui se deplace
+ est un véhicule, tout véhicule a un nom et un poids. on peut avoir plusieurs sortes de véhicule : voiture, 
+ moto, avion ... 
